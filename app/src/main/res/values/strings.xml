@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyInternalStorage</string>
+    <string name="buttonFileReadFromInner">buttonFileReadFromInner</string>
+    <string name="buttonFileWriteFromInner">buttonFileWriteFromInner</string>
+</resources>
